@@ -89,6 +89,7 @@ module.exports = {
             "Bloodthirsty": ["Bloodthirsty"],
             "Loud": ["Loud"],
             "Astral": ["Astral"],
+            "Devout": ["Devout", "MeetingMonster"],
         },
         "Split Decision": {},
         "Resistance": {},

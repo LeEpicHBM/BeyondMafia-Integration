@@ -176,6 +176,11 @@ export default function LearnMafia(props) {
 			text: "All actions done by this player do not appear as visits.",
 			icon: <div className="icon modifier modifier-Mafia-Astral" />
 		},
+		{
+            name: "Devout",
+            text: "This role is aligned with the Monsters.",
+            icon: <div className="icon modifier modifier-Mafia-Unknown" />
+        },
 	];
 
 	useEffect(() => {
