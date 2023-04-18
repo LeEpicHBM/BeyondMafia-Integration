@@ -6,7 +6,7 @@ module.exports = class Devout extends Card {
     
         super(role);
 
-        this.player.alignment = "Monsters";
+        this.role.alignment = "Monsters";
         this.winCount = "Monsters";
        
     }
