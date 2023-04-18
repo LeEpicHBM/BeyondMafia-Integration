@@ -11,4 +11,3 @@ module.exports = class Devout extends Card {
        
     }
 }
-// thx starry 
